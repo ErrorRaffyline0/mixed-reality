@@ -79,9 +79,7 @@ productDirectory:
     # Card
     - title: What's new
       imageSrc: images/WMR_Docs_Landing_whats_new.png
-      links:
-        - url: https://www.microsoft.com/store/collections/mr-playgamesall
-          text: Windows Mixed Reality games
+      links:      
         - url: https://store.steampowered.com/search/?vrsupport=104
           text: New SteamVR releases 
         - url: webvr.md
